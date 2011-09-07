@@ -1,3 +1,4 @@
 this is a new test file.
 it's a rainy day.
 it was sunny yesterday.
+the summer is almost over.
